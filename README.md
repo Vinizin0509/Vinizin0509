@@ -28,7 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinizin0509&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="Vinícius Codo"></p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinizin0509&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;title_name=Vinícius Codo's GitHub Stats" alt="Vinícius Codo"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinizin0509&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff" alt="Vinícius Codo"></p>
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinizin0509&amp;theme=dark&amp;background=0d1117&amp;date_format=M%20j%5B%2C%20Y%5D" alt="Vinícius Codo"></p>
