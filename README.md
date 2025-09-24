@@ -24,7 +24,7 @@
    </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img 
 <br>
 <h3>Statistical Data :-</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="Vinícius Codo" bg_color="#808080/"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinícius-Codo;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="Vinícius Codo" bg_color="#808080/"></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;repo=convoychat" alt="Vinícius Codo"></p>
 <br>
